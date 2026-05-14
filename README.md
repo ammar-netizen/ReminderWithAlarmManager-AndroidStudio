@@ -1,0 +1,1 @@
+Build an mobile application that can set alarm with custom message using alarm manager and time picker. This application can close the app using alert dialog and receive alarm using local notificaiton with vibration.
